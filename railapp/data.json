@@ -1,0 +1,45 @@
+
+    {
+      _id: ObjectId('66c97123e35dbc4dd79dd4c1'),
+      train_no: '12345',
+      train_name: 'Super Express',
+      src_station: 'Station A',
+      dest_station: 'Station B',
+      platform_no: '2',
+      dep_time: '10:00',
+      arr_time: '14:00',
+      __v: 0
+    },
+    {
+      _id: ObjectId('66c9715de35dbc4dd79dd4c5'),
+      train_no: '11111',
+      train_name: 'Local Train',
+      src_station: 'Station C',
+      dest_station: 'Station D',
+      platform_no: '1',
+      dep_time: '11:30',
+      arr_time: '14:30',
+      __v: 0
+    },
+    {
+      _id: ObjectId('66c97180e35dbc4dd79dd4c7'),
+      train_no: '55555',
+      train_name: 'Local Train',
+      src_station: 'Station X',
+      dest_station: 'Station Y',
+      platform_no: '3',
+      dep_time: '12:30',
+      arr_time: '16:30',
+      __v: 0
+    },
+    {
+      _id: ObjectId('66c974bb247ccfbee4313123'),
+      train_no: '666666',
+      train_name: 'Express Train',
+      src_station: 'Station Y',
+      dest_station: 'Station Z',
+      platform_no: '4',
+      dep_time: '1:30',
+      arr_time: '6:30',
+      __v: 0
+    }
